@@ -1,1 +1,3 @@
 # Color-Guessing-Game
+
+This is a RBG color guessing game, we reply on other resources for RBG codes, brush up your RBG skills!
